@@ -45,7 +45,7 @@ I am a passionate Full Stack Developer focused on creating
 modern, responsive and scalable web applications.
 
 I enjoy solving real-world problems through clean code,
-thoughtful architecture and great user experiences.
+thoughtful architecture and great user experiences. 
 
 ---
 
