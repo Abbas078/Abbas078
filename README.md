@@ -27,7 +27,7 @@ const abbas = {
   experience: "2+ Years",
   frontend: ["React.js", "Next.js", "JavaScript"],
   backend: ["Node.js", "Express.js", "REST APIs"],
-  database: ["MongoDB", "Mongoose"],
+  database: ["MongoDB", "Mongoose" . "MySQL"],
   focus: ["Scalable Apps", "Clean Code", "Performance"],
   portfolio: "https://abbasali.app"
 };
